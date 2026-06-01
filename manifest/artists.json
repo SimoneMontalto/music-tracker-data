@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "dataset": {
-        "version": 2,
+        "version": 3,
         "url": "https://github.com/SimoneMontalto/music-tracker-data/releases/download/artists-v3/artists.bin.gz",
         "sha256": "9360a881161dd082e5609837a4c5099f115a1d29036eabf96ba0c12bcc789c52",
         "gzippedSizeBytes": 17825792,
